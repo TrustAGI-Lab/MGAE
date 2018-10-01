@@ -1,14 +1,14 @@
-# MGAE-master
+# MGAE
 
 Implementation of the CIKM-17 paper “MGAE: Marginalized Graph Autoencoder for Graph Clustering”
 
-## Run
+## Usage
 
 run train.m
 
 ## Cite
 
-Please kindly cite our paper if you use our code in your own work:
+Please kindly cite our paper if you use this code in your own work:
 
 ```
 @inproceedings{wang2017mgae,
